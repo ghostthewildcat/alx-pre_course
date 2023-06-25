@@ -1,1 +1,1 @@
-My first readme
+I live in Owerri Nigeria 
